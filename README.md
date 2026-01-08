@@ -7,7 +7,7 @@ Contains all **PDB structures of the nanoparticles (hNPs)** used throughout the 
 These files define the full nanoparticle architecture employed in system construction and analysis.
 
 ### `membrane_files/`
-Includes all **PDB structures of the membrane systems**, corresponding to the different membrane compositions used in the study.
+Includes all **GRO structures of the membrane systems**, corresponding to the different membrane compositions used in the study.
 
 ### `itp/`
 Collects **all ITP topology files** used in the simulations, including nanoparticle components, lipids, and auxiliary parameters required for system setup in GROMACS.
