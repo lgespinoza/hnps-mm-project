@@ -26,4 +26,5 @@ Updated documentation reflecting the current repository structure and contents.
 ---
 
 For questions or further information, please contact:  
-**luis.espinoza-@utalca.cl**
+**luis.espinoza@utalca.cl**
+**matvaldes19@alumnos.utalca.cl**
